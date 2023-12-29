@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f07136be36ff543a82199e76824c2a, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 3958bfae1bde7d449b8473a4d69c4373, type: 3}
+  itemName: Roti
+  desc: Roti adalah makanan berbahan dasar utama tepung terigu dan air, yang difermentasikan
+    dengan ragi, tetapi ada juga yang tidak menggunakan ragi.
+  prefabObject: {fileID: 839233260410868668, guid: d6846055e97b9ac42a6e11a3ea4f1237,
+    type: 3}
+  interactionType: {fileID: 11400000, guid: 7b4493597bcf12646baabc98e07882ea, type: 2}

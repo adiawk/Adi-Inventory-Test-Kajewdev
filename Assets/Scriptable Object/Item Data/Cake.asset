@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f07136be36ff543a82199e76824c2a, type: 3}
+  m_Name: Cake
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 62df984ebbed66f41ba58b49e540b6b0, type: 3}
+  itemName: Kue
+  desc: Kue atau kuih adalah kudapan atau makanan ringan yang bukan makanan utama.
+    Kue biasanya bercita rasa manis atau ada pula yang gurih dan asin. Kue sering
+    kali diartikan sebagai makanan ringan yang dibuat dari adonan tepung, baik tepung
+    beras, tepung sagu, tapioka, ataupun terigu. Kue tradisional Nusantara lazim
+    ditemukan di Indonesia, Malaysia, Singapura, serta Belanda melalui hubungan sejarahnya
+    dengan Indonesia.
+  prefabObject: {fileID: 7009146036524199079, guid: c6f47410b0c7bfa488e17d3d793d6de4,
+    type: 3}
+  interactionType: {fileID: 11400000, guid: 7b4493597bcf12646baabc98e07882ea, type: 2}
